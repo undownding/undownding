@@ -21,7 +21,7 @@ jobs:
           user: undownding
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Berlin
+          config_timezone: Asia/Shanghai
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
