@@ -1333,7 +1333,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            709 Commits
+            710 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1409,7 +1409,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    139k added, 45.8k removed
+                    100k added, 16.5k removed
                   
                 </div>
                             </section>
@@ -1524,14 +1524,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.91912635918476" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="171.91912635918476" y="0" width="114.29166824948038" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="286.21079460866514" y="0" width="58.10891567311188" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="344.319710281777" y="0" width="53.16702754819442" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="397.48673782997145" y="0" width="20.19275957692746" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="417.6794974068989" y="0" width="17.47209996870551" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="435.1515973756044" y="0" width="13.04495371852688" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="448.1965510941313" y="0" width="11.803448905868711" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.92236071248578" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="171.92236071248578" y="0" width="114.29381844441397" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="286.2161791568998" y="0" width="58.110008889249066" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="344.32618804614884" y="0" width="53.16802779147565" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="397.4942158376245" y="0" width="20.193139467867915" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="417.6873553054924" y="0" width="17.472428675263107" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="435.15978398075555" y="0" width="13.045199136183513" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="448.20498311693905" y="0" width="11.795016883060969" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2797,6 +2797,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
+                                        <span class="sha">#f81e407</span>
+                                        <span class="message">update</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">undownding/mask.io</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
                                         <span class="sha">#d41a931</span>
                                         <span class="message">update yarn.lock</span>
                                     </div>
@@ -2868,31 +2887,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">undownding/mask.io</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#131f0d3</span>
-                                        <span class="message">update icon</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27/09/2021, 03:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 27/09/2021, 04:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
