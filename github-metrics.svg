@@ -1492,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alieldinayman/HSV-Color-Picker</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple OpenCV script that displays the upper and lower HSV ranges of any pixel in an RGB image</div>
@@ -1813,7 +1813,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Mar 2022, 08:51:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 21 Mar 2022, 10:25:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
