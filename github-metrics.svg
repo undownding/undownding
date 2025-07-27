@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1800" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1700" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            776 Commits
+                            777 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    176k added, 42.1k removed
+                                    69.6k added, 10.5k removed
                                 </div>
                             </section>
                             <section>
@@ -340,14 +340,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.11922186100634" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="177.11922186100634" y="0" width="101.93570125617146" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="279.0549231171778" y="0" width="56.23770273665127" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="335.29262585382907" y="0" width="54.775188470446686" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="390.06781432427573" y="0" width="19.723882316019075" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="409.79169664029484" y="0" width="18.000584439158317" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="427.7922810794531" y="0" width="16.747245718647708" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="444.53952679810084" y="0" width="15.460473201899127" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.1083296466485" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="177.1083296466485" y="0" width="101.92943256609291" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="279.03776221274137" y="0" width="56.23424431408841" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="335.2720065268298" y="0" width="54.771819987409984" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="390.04382651423975" y="0" width="19.750957761586598" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="409.7947842758263" y="0" width="17.999477466000815" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="427.79426174182714" y="0" width="16.74621582144991" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="444.5404775632771" y="0" width="15.459522436722885" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1709,6 +1709,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">undownding/saa-config-panel</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e0f8944</div>
+                                        <div class="message">move questName to updateDate</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">undownding/SnowbreakAutoAssistant</span>
                                     </div>
                                 </div>
@@ -1777,46 +1797,6 @@
                                     <div class="commit">
                                         <div class="sha">#aa712d3</div>
                                         <div class="message">fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">undownding/SnowbreakAutoAssistant</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#da58d57</div>
-                                        <div class="message">tag traigger</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66ef242</div>
-                                        <div class="message">移除 ps1 脚本中的汉字</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adc5c8c</div>
-                                        <div class="message">移除所有自动触发</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2142200</div>
-                                        <div class="message">解决 emoji 导致的报错</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22fd621</div>
-                                        <div class="message">自动生成 changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02805ae</div>
-                                        <div class="message">新增自动构建 workflow</div>
                                     </div>
                                 </div>
                             </section>
@@ -1826,7 +1806,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2025, 12:20:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2025, 13:08:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
