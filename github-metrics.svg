@@ -1536,7 +1536,7 @@
                                         <span>starred Jan 28 2026</span>
                                     </div>
                                 </div>
-                                <div class="field description">AI-native SQL workspace for modern databases. SQL Copilot, schema-aware editor, database chat, and operational tools in one place.</div>
+                                <div class="field description">AI-native SQL workspace for modern data works. SQL Copilot, schema-aware editor, database chat, and operational tools in one place.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1702,7 +1702,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2026, 22:31:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 May 2026, 23:23:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
